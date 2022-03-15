@@ -1,0 +1,23 @@
+.footer-container p, h3{
+    margin: 2px;
+}
+.footer-container{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(31, 23, 23);
+    color:white;
+    padding:10px;
+}
+.footer1 {
+    flex: 2;
+    padding: 0 50px;
+}
+.footer2, .footer3, .footer4{
+    flex:1;
+    padding:10px;
+}
+.footer2 span{
+    background-color: orange;
+}
+
+

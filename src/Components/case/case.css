@@ -1,0 +1,76 @@
+#case-container{
+    padding: 30px;
+    background-color: rgb(31, 23, 23);
+    color: white;
+}
+.case-first-container ,.case-second-container,.case-third-container,.case-fourth-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.inside-first-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+.case-image{
+    width: 30%;
+    margin: 10px;
+}
+.case-content{
+    margin: 10px;
+}
+.case-content button{
+    color: rgb(245, 102, 7);
+    border: 1px solid rgb(245, 102, 7) ;
+    background-color: rgb(31, 23, 23);
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.case-content p h3 a button{
+    margin: 5px;
+}
+.case-fifth-container-header{
+    display: flex;
+    justify-content: space-between;
+}
+.case-fifth-container-header button{
+        color: rgb(245, 102, 7);
+        border: 1px solid rgb(245, 102, 7) ;
+        background-color: rgb(31, 23, 23);
+        width: 150px;
+        height: 30px;
+        border-radius: 5px;
+}
+.case-image-container{
+    display: flex;
+}
+.inside-case-image-container{
+    background-color: white;
+    color: black;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.case-fifth-container-header,.case-image-container{
+    margin: 10px;
+}
+.inside-case-image-container p{
+    font-weight: bold;
+}
+.inside-case-image-container span{
+    color:1px solid rgb(245, 102, 7);
+}
+.case-content button:hover{
+    background-color: rgb(245, 102, 7);
+    color: white;
+}
+.case-fifth-container button:hover{
+    background-color: rgb(245, 102, 7);
+    color: white;
+}

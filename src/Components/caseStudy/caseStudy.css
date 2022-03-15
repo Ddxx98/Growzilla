@@ -1,0 +1,41 @@
+.row{
+    display: flex;
+    justify-content:center ;
+}
+.caseStudy-parent{
+    padding: 50px;
+}
+.para{
+    font-size: smaller;
+    width: 18rem;
+}
+.right-row{
+    background-color: #f5f5f5;
+    border-radius: 50%;
+    height: 5rem;
+    padding: 8rem;
+    margin: 2rem;
+    margin-left: 20%;
+}
+.community{
+    font-size: larger;
+    color: orangered;
+}
+.caseStudy-para{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #000;
+    
+}
+.bottom-row{
+    display: flex;
+    justify-content: space-between;
+}
+.par{
+    font-size: 3rem;
+}
+#imgtag{
+    border-radius: 50%;
+    border: 5px solid orangered;
+}

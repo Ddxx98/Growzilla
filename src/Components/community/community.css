@@ -1,0 +1,36 @@
+.community-container{
+    padding: 50px;
+}
+.top-div{
+    display: flex;
+    padding: 50px;
+}
+.top-div button{
+        color: white;
+        background-color: rgb(245, 102, 7);
+        width: 180px;
+        height: 40px;
+        border: none;
+        border-radius: 5px;
+}
+.bottom-div{
+    text-align: center;
+    background-color: rgb(31, 23, 23);
+    color: white;
+    border-radius: 10px;
+    padding: 50px;
+}
+.bottom-div button{
+    color: white;
+    background-color: rgb(245, 102, 7);
+    width: 180px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.community-container button:hover{
+        color: rgb(245, 102, 7);
+        border: 1px solid rgb(245, 102, 7) ;
+        background-color: rgb(31, 23, 23);
+        border-radius: 5px;
+}
