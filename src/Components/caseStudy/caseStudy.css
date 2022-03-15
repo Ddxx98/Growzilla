@@ -32,9 +32,6 @@
     display: flex;
     justify-content: space-between;
 }
-.par{
-    font-size: 3rem;
-}
 #imgtag{
     border-radius: 50%;
     border: 5px solid orangered;

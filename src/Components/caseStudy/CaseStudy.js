@@ -16,7 +16,7 @@ export default function CaseStudy(){
             </div>
             <div className='bottom-row'>
                     <div className='left-bottom'>
-                    <p calssName='par'><span>"</span>Taking the time to <span>build community</span>, to get to know your people will have long lasting benefits<span>"</span></p>
+                    <h1 className='par'><span>"</span>Taking the time to <span>build community</span>, to get to know your people will have long lasting benefits<span>"</span></h1>
                 </div>
                 <div className='right-bottom'>
                     <img id='imgtag' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBp3gsQdFjO_r7zsVr0d-gs8n86rXGbmp3w&usqp=CAU"/><br></br>

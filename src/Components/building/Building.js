@@ -7,7 +7,7 @@ export default function Building() {
                 <h1 className="heading">
                     Why Community building is so important
                 </h1>
-                <p className="para">
+                <p className="building-para">
                     We are focused on providing best user experience possible,
                     all the rest will follow.
                 </p>
